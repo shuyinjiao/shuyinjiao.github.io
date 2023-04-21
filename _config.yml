@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shuyin's Homepage"
 title_separator          : "-"
 name                     : &name "Shuyin Jiao"
-description              : &description "\n"
+description              : &description ""
 url                      : https://shuyinjiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuyinjiao/shuyinjiao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shuyin Jiao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "\n"
   location         : "Raleigh, USA"
   employer         :
   pubmed           : 
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "sjiao2@ncsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
