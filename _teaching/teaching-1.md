@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/teaching-1
 venue: "The College of William & Mary, Computer Science Department"
-date: 
+date: ""
 location: "Williamsburg, USA"
 ---
 
