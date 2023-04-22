@@ -18,9 +18,9 @@ author_profile: true
 <h2>Refereed Journal Articles</h2>
 
 <ul>
-  <li>Radiation Tolerance of Nanotwinned Metals - An Atomistic Perspective, <strong>Shuyin Jiao<strong>, Yashashree Kulkarni, Computational Materials Science, 142, 290-296, 2018.</li>
-   <li>Molecular Dynamics Study of Creep Mechanisms in Nanotwinned Metals, <strong>Shuyin Jiao</strong>, Yashashree Kulkarni, Computational Materials Science, 110, 254-260, 2015.</li>
-   <li>Indentation of Nano-Twinned FCC Metals: Implications for Nano-Twin Stability, Jiddu Bezares, <strong>Shuyin Jiao</strong>, Yue Liu, Daniel Bufford, Lei Lu, Xinghang Zhang, Yashashree Kulkarni, Robert J. Asaro, Acta Materialia, 60, 4623-4635, 2012.</li>
+  <li>Radiation Tolerance of Nanotwinned Metals - An Atomistic Perspective, <strong>Shuyin Jiao</strong>, Yashashree Kulkarni, Computational Materials Science, 142, 290-296, 2018.</li>
+  <li>Molecular Dynamics Study of Creep Mechanisms in Nanotwinned Metals, <strong>Shuyin Jiao</strong>, Yashashree Kulkarni, Computational Materials Science, 110, 254-260, 2015.</li>
+  <li>Indentation of Nano-Twinned FCC Metals: Implications for Nano-Twin Stability, Jiddu Bezares, <strong>Shuyin Jiao</strong>, Yue Liu, Daniel Bufford, Lei Lu, Xinghang Zhang, Yashashree Kulkarni, Robert J. Asaro, Acta Materialia, 60, 4623-4635, 2012.</li>
 
 </ul>
 
