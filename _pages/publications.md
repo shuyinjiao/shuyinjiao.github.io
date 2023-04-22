@@ -4,21 +4,21 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<p2>Refereed Full Conference Papers</p2>
+<h2>Refereed Full Conference Papers</h2>
 
 <ul>
   <li></li>
 
 </ul>
 
-<p2>Refereed Journal Articles</p2>
+<h2>Refereed Journal Articles</h2>
 
 <ul>
   <li></li>
 
 </ul>
 
-<p2>Research Posters</p2>
+<h2>Research Posters</h2>
 
 <ul>
   <li></li>
