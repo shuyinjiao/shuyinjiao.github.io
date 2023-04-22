@@ -21,6 +21,6 @@ I am an Assistant Teaching Professor in the Department of Computer Science at No
 <h2>Education</h2>
 <ul>
   <li>2015 PhD, University of Houston, USA</li>
-  <li>2008 Diploma d'Ingeniur, Ecole Central de Lyon, France</li>
+  <li>2008 Diplôme d'Ingénieur, Ecole Central de Lyon, France</li>
   <li>2006 BS, Beihang University, China</li>
 </ul>
