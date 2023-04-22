@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Teaching Professor in the <a href="https://www.csc.ncsu.edu/">[Department of Computer Science]</a> at <a href="https://www.ncsu.edu/">[North Carolina State University]</a>. My focus is primarily on teaching undergraduate courses, and I currently serve as the course coordinator for the CSC 111 Introduction to Computing: Python course and the E 115 Introduction to Computing Environments course. In addition to my teaching responsibilities, my research interests are in the areas of computer science education and program analysis. 
+I am an Assistant Teaching Professor in the <a href="https://www.csc.ncsu.edu/">Department of Computer Science</a> at <a href="https://www.ncsu.edu/">North Carolina State University</a>. My focus is primarily on teaching undergraduate courses, and I currently serve as the course coordinator for the CSC 111 Introduction to Computing: Python course and the E 115 Introduction to Computing Environments course. In addition to my teaching responsibilities, my research interests are in the areas of computer science education and program analysis. 
 
 <h2>Teaching Experience</h2>
 <ul>
