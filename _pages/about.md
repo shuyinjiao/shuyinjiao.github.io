@@ -20,7 +20,7 @@ I am an Assistant Teaching Professor in the <a href="https://www.csc.ncsu.edu/">
 
 <h2>Education</h2>
 <ul>
-  <li>2015 PhD, University of Houston, USA</li>
-  <li>2008 Diplôme d'Ingénieur, Ecole Central de Lyon, France</li>
-  <li>2006 BS, Beihang University, China</li>
+  <li>PhD, University of Houston, USA</li>
+  <li>Diplôme d'Ingénieur, Ecole Central de Lyon, France</li>
+  <li>BS, Beihang University, China</li>
 </ul>
