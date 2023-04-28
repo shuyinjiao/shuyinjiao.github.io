@@ -21,6 +21,6 @@ I am an Assistant Teaching Professor in the <a href="https://www.csc.ncsu.edu/">
 <h2>Education</h2>
 <ul>
   <li>PhD, University of Houston, USA</li>
-  <li>Diplôme d'Ingénieur, Ecole Central de Lyon, France</li>
+  <li><a href="https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur">Diplôme d'Ingénieur</a>, Ecole Central de Lyon, France</li>
   <li>BS, Beihang University, China</li>
 </ul>
