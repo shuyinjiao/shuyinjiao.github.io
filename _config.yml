@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shuyin Jiao"
 title_separator          : "-"
-name                     : &name "Shuyin Jiao"
+name                     : &name "Shuyin's Homepage"
 description              : &description ""
 url                      : https://shuyinjiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
