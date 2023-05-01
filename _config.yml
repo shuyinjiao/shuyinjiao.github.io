@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuyin's Homepage"
+title                    : "Shuyin Jiao"
 title_separator          : "-"
 name                     : &name "Shuyin Jiao"
 description              : &description ""
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuyin Jiao"
+  name             : "Shuyin Jiao - 矫书音"
   avatar           : "Shuyin_Jiao.png"
   bio              : "\n"
   location         : "Raleigh, USA"
