@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuyin's Homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Shuyin Jiao"
 description              : &description ""
