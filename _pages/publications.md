@@ -27,7 +27,7 @@ author_profile: true
 <h2>Research Posters</h2>
 
 <ul>
-  <li>[SIGCSE'24]ThemeRec: Personalizing IDE Themes for Students, Jialiang Tan, Yu Chen, <strong>Shuyin Jiao</strong>, The Technical Symposium on Computer Science Education, March 20-23, 2024, Portland, OR, USA.</li>
+  <li>[SIGCSE'24] ThemeRec: Personalizing IDE Themes for Students, Jialiang Tan, Yu Chen, <strong>Shuyin Jiao</strong>, The Technical Symposium on Computer Science Education, March 20-23, 2024, Portland, OR, USA.</li>
   <li>Integrating Flipped Learning and Self-Regulated Learning in an Introductory Computer Science Course, <strong>Shuyin Jiao</strong>, Yan Shen, Dan Spencer, NC State Conference on Faculty Excellence, March 9, 2023, Raleigh, NC, USA.</li>
   
 
