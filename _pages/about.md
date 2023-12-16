@@ -13,7 +13,7 @@ I am an Assistant Teaching Professor in the <a href="https://www.csc.ncsu.edu/">
 <h2>Teaching Experience</h2>
 <ul>
   <li>2020-Present Assistant Teaching Professor at Department of Computer Science, NCSU</li>
-  <li>2016-2020 Lecturer at Department of Computer Science, College of William & Mary</li>
+  <li>2016-2020 Lecturer (Equivalent to Assistant Teaching Professor) at Department of Computer Science, College of William & Mary</li>
   <li>2015-2016 Adjunct Lecturer at Department of Computer Science, College of William & Mary</li>
 </ul>
 
