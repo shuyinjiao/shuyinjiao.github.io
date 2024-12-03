@@ -7,7 +7,7 @@ author_profile: true
 <h2>Refereed Full Conference Papers</h2>
 
 <ul>
-  <li>[SIGCSE'25] Tensor-Viz:Visualizing GPU Programming in AI Courses, Tejas Ramesh, Alexander Rush, Xu Liu, Binqian Yin, Keren Zhou <strong>Shuyin Jiao</strong>, The Technical Symposium on Computer Science Education, Feb 26 - Mar 1, 2025, Pittsburgh, PA, USA. <a href="">[Paper]</a></li>
+  <li>[SIGCSE'25] Tensor-Viz: Visualizing GPU Programming in AI Courses, Tejas Ramesh, Alexander Rush, Xu Liu, Binqian Yin, Keren Zhou, <strong>Shuyin Jiao</strong>, The Technical Symposium on Computer Science Education, Feb 26 - Mar 1, 2025, Pittsburgh, PA, USA. <a href="">[Paper]</a></li>
   <li>[ASEE'24] Visual Studio Code in Introductory Computer Science Course: An Experience Report, Jialiang Tan, Yu Chen, <strong>Shuyin Jiao</strong>, The 2024 American Society for Engineering Education (ASEE) Annual Conference & Exposition, June 23 - 26, 2024, Portland, OR, USA. <a href="https://peer.asee.org/visual-studio-code-in-introductory-computer-science-course-an-experience-report">[Paper]</a></li>
   <li>[MobiCom'23] DroidPerf: Profiling Memory Objects on Android Devices, Bolun Li, Qidong Zhao, <strong>Shuyin Jiao</strong>, Xu Liu, The 29th Annual International Conference On Mobile Computing And Networking, Oct 2 - 6, 2023, Madrid, Spain. <a href="https://dl.acm.org/doi/abs/10.1145/3570361.3592503">[Paper]</a></li>
   <li>[CGO'23] DJXPerf: Identifying Memory Inefficiencies via Object-centric Profiling for Java, Bolun Li, Pengfei Su, Milind Chabbi, <strong>Shuyin Jiao</strong>, Xu Liu, The IEEE/ACM International Symposium on Code Generation and Optimization, Feb 25 - Mar 1, 2023, Montreal, Canada. <a href="https://dl.acm.org/doi/abs/10.1145/3579990.3580010">[Paper]</a></li>
