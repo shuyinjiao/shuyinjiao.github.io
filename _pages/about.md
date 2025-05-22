@@ -14,10 +14,10 @@ I am thrilled to serve as the Publications Co-Chair for <a href="https://sigcse2
 
 <h2>Teaching Experience</h2>
 <ul>
-  <li>08/2025 - Present Associate Teaching Professor at Department of Computer Science, NCSU</li>
-  <li>08/2020 - 07/2025 Assistant Teaching Professor at Department of Computer Science, NCSU</li>
-  <li>08/2016 - 07/2020 Lecturer (Equivalent to Assistant Teaching Professor) at Department of Computer Science, College of William & Mary</li>
-  <li>08/2015 - 07/2016 Adjunct Lecturer at Department of Computer Science, College of William & Mary</li>
+  <li>08/2025 - Present Associate Teaching Professor, Department of Computer Science, NCSU</li>
+  <li>08/2020 - 07/2025 Assistant Teaching Professor, Department of Computer Science, NCSU</li>
+  <li>08/2016 - 07/2020 Lecturer (Equivalent to Assistant Teaching Professor), Department of Computer Science, College of William & Mary</li>
+  <li>08/2015 - 07/2016 Adjunct Lecturer, Department of Computer Science, College of William & Mary</li>
 </ul>
 
 
