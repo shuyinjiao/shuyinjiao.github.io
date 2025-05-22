@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Teaching Professor in the <a href="https://www.csc.ncsu.edu/">Department of Computer Science</a> at <a href="https://www.ncsu.edu/">North Carolina State University</a>. My focus is primarily on teaching undergraduate courses, and I currently serve as the course coordinator for the CSC 111 Introduction to Computing: Python course. In addition to my teaching responsibilities, my research interests are in the areas of computing education and program analysis.
 
-I am thrilled to serve as the Publications Co-Chair for <a href="https://sigcse2025.sigcse.org/">SIGCSE TS 2025</a>. I invite you to submit your best work and showcase your research!
+I am thrilled to serve as the Publications Co-Chair for <a href="https://sigcse2026.sigcse.org/">SIGCSE TS 2026</a>. I invite you to submit your best work and showcase your research!
 
 <h2>Teaching Experience</h2>
 <ul>
