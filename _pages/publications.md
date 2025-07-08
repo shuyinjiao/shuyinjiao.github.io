@@ -29,7 +29,7 @@ author_profile: true
 <h2>Workshop Papers</h2>
 
 <ul>
-  <li>Facilitating Instructors-LLM Collaboration for Problem Design in Introductory Programming Classrooms, Muntasir Hoq, Jessica Vandenberg, <strong>Shuyin Jiao</strong>strong>, Seung Lee, Bradford Mott, Narges Norouzi, James Lester, Bita Akram, CHI 2025 Workshop on Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning, April 26, 2025, Yokohama, Japan <a href="https://arxiv.org/abs/2504.01259">[Paper]</a></li>
+  <li>Facilitating Instructors-LLM Collaboration for Problem Design in Introductory Programming Classrooms, Muntasir Hoq, Jessica Vandenberg, <strong>Shuyin Jiao</strong>, Seung Lee, Bradford Mott, Narges Norouzi, James Lester, Bita Akram, CHI 2025 Workshop on Augmented Educators and AI: Shaping the Future of Human-AI Collaboration in Learning, April 26, 2025, Yokohama, Japan. <a href="https://arxiv.org/abs/2504.01259">[Paper]</a></li>
 
 </ul>
 
