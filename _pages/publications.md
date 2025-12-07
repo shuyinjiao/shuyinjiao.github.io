@@ -38,6 +38,7 @@ author_profile: true
 <h2>Research Posters</h2>
 
 <ul>
+  <li>[SIGCSE'26] INSIGHT: An Explainable, Instructor-Guided AI Assistant for Active Learning in CS1, Muntasir Hoq, Jessica Vandenberg, Seung Lee, Bradford Mott, James Lester, Narges Norouzi, <strong>Shuyin Jiao</strong>, Bita Akram, The Technical Symposium on Computer Science Education, Feb 18 - 21, 2026, St. Louis, MO, USA. <a href="">[Paper]</a></li>
   <li>[SIGCSE'24] ThemeRec: Personalizing IDE Themes for Students, Jialiang Tan, Yu Chen, <strong>Shuyin Jiao</strong>, The Technical Symposium on Computer Science Education, March 20 - 23, 2024, Portland, OR, USA. <a href="https://dl.acm.org/doi/10.1145/3626253.3635577">[Paper]</a></li>
   <li>Integrating Flipped Learning and Self-Regulated Learning in an Introductory Computer Science Course, <strong>Shuyin Jiao</strong>, Yan Shen, Dan Spencer, NC State Conference on Faculty Excellence, March 9, 2023, Raleigh, NC, USA.</li>
   
