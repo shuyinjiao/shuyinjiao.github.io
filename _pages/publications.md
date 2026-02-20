@@ -7,7 +7,7 @@ author_profile: true
 <h2>Refereed Full Conference Papers</h2>
 
 <ul>
-  <li>[SIGCSE'26] Integrating Hands-On Data Collection Experience in an Introductory Programming Class for Non-CS Majors, <strong>Shuyin Jiao</strong>, Warren Jasper, The Technical Symposium on Computer Science Education, Feb 18 - 21, 2026, St. Louis, MO, USA. <a href="">[Paper]</a></li>
+  <li>[SIGCSE'26] Integrating Hands-On Data Collection Experience in an Introductory Programming Class for Non-CS Majors, <strong>Shuyin Jiao</strong>, Warren Jasper, The Technical Symposium on Computer Science Education, Feb 18 - 21, 2026, St. Louis, MO, USA. <a href="https://dl.acm.org/doi/10.1145/3770762.3772601">[Paper]</a></li>
   <li>[SC'25] RedSan: A Redundant Memory Instruction Sanitizer for GPU Programs, Yanbo Zhao, Yueming Hao, Zecheng Li, <strong>Shuyin Jiao</strong>, Xu Liu, Jiajia Li, The International Conference for High Performance Computing, Networking, Storage and Analysis, Nov 16 - 21, 2025, St. Louis, MO, USA. <a href="https://dl.acm.org/doi/10.1145/3712285.3759830">[Paper]</a></li>
   <li>[SIGCSE'25] Triton-Viz: Visualizing GPU Programming in AI Courses, Tejas Ramesh, Alexander Rush, Xu Liu, Binqian Yin, Keren Zhou, <strong>Shuyin Jiao</strong>, The Technical Symposium on Computer Science Education, Feb 26 - Mar 1, 2025, Pittsburgh, PA, USA. <a href="https://dl.acm.org/doi/10.1145/3641554.3701795">[Paper]</a></li>
   <li>[ASEE'24] Visual Studio Code in Introductory Computer Science Course: An Experience Report, Jialiang Tan, Yu Chen, <strong>Shuyin Jiao</strong>, The 2024 American Society for Engineering Education (ASEE) Annual Conference & Exposition, June 23 - 26, 2024, Portland, OR, USA. <a href="https://peer.asee.org/visual-studio-code-in-introductory-computer-science-course-an-experience-report">[Paper]</a></li>
@@ -38,7 +38,7 @@ author_profile: true
 <h2>Research Posters</h2>
 
 <ul>
-  <li>[SIGCSE'26] INSIGHT: An Explainable, Instructor-Guided AI Assistant for Active Learning in CS1, Muntasir Hoq, Jessica Vandenberg, Seung Lee, Bradford Mott, James Lester, Narges Norouzi, <strong>Shuyin Jiao</strong>, Bita Akram, The Technical Symposium on Computer Science Education, Feb 18 - 21, 2026, St. Louis, MO, USA. <a href="">[Paper]</a></li>
+  <li>[SIGCSE'26] INSIGHT: An Explainable, Instructor-Guided AI Assistant for Active Learning in CS1, Muntasir Hoq, Jessica Vandenberg, Seung Lee, Bradford Mott, James Lester, Narges Norouzi, <strong>Shuyin Jiao</strong>, Bita Akram, The Technical Symposium on Computer Science Education, Feb 18 - 21, 2026, St. Louis, MO, USA. <a href="https://dl.acm.org/doi/10.1145/3770761.3777334">[Paper]</a></li>
   <li>[SIGCSE'24] ThemeRec: Personalizing IDE Themes for Students, Jialiang Tan, Yu Chen, <strong>Shuyin Jiao</strong>, The Technical Symposium on Computer Science Education, March 20 - 23, 2024, Portland, OR, USA. <a href="https://dl.acm.org/doi/10.1145/3626253.3635577">[Paper]</a></li>
   <li>Integrating Flipped Learning and Self-Regulated Learning in an Introductory Computer Science Course, <strong>Shuyin Jiao</strong>, Yan Shen, Dan Spencer, NC State Conference on Faculty Excellence, March 9, 2023, Raleigh, NC, USA.</li>
   
