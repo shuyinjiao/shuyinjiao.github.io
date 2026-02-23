@@ -12,7 +12,7 @@ author_profile: true
   <li>[2025 - Present] Member of the Computer Science Teaching Assistant (TA) Task Force Committee</li>
   <li>[2022 - 2026] Course Coordinator, CSC 111 (Introduction to Computing: Python)</li>
   <li>[2022 - 2024] Course Coordinator, E 115 (Introduction to Computing Environments)</li>
-  <li>[2022] Member of the CSC 246 Assessment Team</li>
+  <li>[2022] Member of the CSC 246 (Concepts and Facilities of Operating Systems for Computer Scientists) Assessment Team</li>
   <li>[2020 - Present] Member of the Department Steering Committee</li>
 </ul>
 
@@ -20,11 +20,7 @@ author_profile: true
 <hr>
 
 <ul>
-  <li><strong>CSCI 141 Computational Problem Solving</strong></li>
-  <p align=”justify”>CSCI 141 is an introductory programming course in Python designed for both computer science majors and non-majors at W&M. 
-    The course aims to cover fundamental topics such as expressions, functions, conditionals, and loops, as well as object-oriented programming 
-    using classes. In addition, students will learn about built-in data structures in Python, including lists, tuples, and dictionaries, 
-    as well as how to develop graphics applications using PyQt5. By the end of this course, students will have acquired a solid foundation in 
-    Python programming, allowing them to pursue more advanced topics in computer science.<br>
-    [Spring 2018, Spring 2019, Fall 2019, Spring 2020]</p>
+  <li>[2023] Judge, SIGCSE TS’23 Student Research Competition</li>
+  <li>[2023] National Science Foundation, Panel Review</li>
+  <li>Reviewer: SIGCSE TS'21-23, ITiCSE'25-26, CompEd'23, CompEd'25</li>
 </ul>
