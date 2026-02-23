@@ -9,11 +9,11 @@ author_profile: true
 <hr>
 
 <ul>
-  <li>[2025 - Present] Member of Computer Science Teaching Assistant (TA) Task Force Committee</li>
+  <li>[2025 - Present] Member of the Computer Science Teaching Assistant (TA) Task Force Committee</li>
   <li>[2022 - 2026] Course Coordinator, CSC 111 (Introduction to Computing: Python)</li>
   <li>[2022 - 2024] Course Coordinator, E 115 (Introduction to Computing Environments)</li>
-  <li>[2022] Member of CSC 246 assessment</li>
-  <li>[2020 - Present] Member of Department Steering Committee</li>
+  <li>[2022] Member of the CSC 246 Assessment Team</li>
+  <li>[2020 - Present] Member of the Department Steering Committee</li>
 </ul>
 
 <h2> Professional Service </h2>
