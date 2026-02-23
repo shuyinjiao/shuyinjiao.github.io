@@ -22,11 +22,11 @@ author_profile: true
 <ul>
   <li>Program Committee Member
     <ul>
-      <li>[2024 - 2025] Junior/Senior Publications Co-Chair, SIGCSE TS’25-26</li>
-      <li>[2023 - 2025] Associate Program Chair (APC), SIGCSE TS’24-26</li>
+      <li>[2024 - 2025] Junior/Senior Publications Co-Chair, SIGCSE TS'25-26</li>
+      <li>[2023 - 2025] Associate Program Chair (APC), SIGCSE TS'24-26</li>
     </ul>
   </li>
-  <li>[2023] Judge, SIGCSE TS’23 Student Research Competition</li>
+  <li>[2023] Judge, SIGCSE TS'23 Student Research Competition</li>
   <li>[2023] National Science Foundation, Panel Review</li>
   <li>Reviewer: SIGCSE TS'21-23, ITiCSE'25-26, CompEd'23, CompEd'25</li>
 </ul>
