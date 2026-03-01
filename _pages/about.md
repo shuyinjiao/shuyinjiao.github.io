@@ -19,11 +19,3 @@ I am thrilled to serve as the Publications Co-Chair for <a href="https://sigcse2
   <li>2016 - 2020 Lecturer (Equivalent to Assistant Teaching Professor), Department of Computer Science, College of William & Mary</li>
   <li>2015 - 2016 Adjunct Lecturer, Department of Computer Science, College of William & Mary</li>
 </ul>
-
-
-<h2>Education</h2>
-<ul>
-  <li>Ph.D., University of Houston, USA</li>
-  <li><a href="https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur">Diplôme d'Ingénieur</a>, Ecole Central de Lyon, France</li>
-  <li>B.S., Beihang University, China</li>
-</ul>
