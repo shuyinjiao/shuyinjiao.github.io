@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Associate Teaching Professor in the <a href="https://www.csc.ncsu.edu/">Department of Computer Science</a> at <a href="https://www.ncsu.edu/">North Carolina State University</a>. My primary focus is on teaching undergraduate courses. In addition to teaching, my research interests include computing education and program analysis.
 
-I am thrilled to serve as the Demos & Lightning Talks Co-Chair for <a href="">SIGCSE TS 2027</a>. I invite you to submit your best work and showcase your research with the community!
+I am thrilled to serve as the Demos & Lightning Talks Co-Chair for <a href="https://conf.researchr.org/home/sigcse-ts-2027">SIGCSE TS 2027</a>. I invite you to submit your best work and showcase your research with the community!
 
 <h2>Teaching Experience</h2>
 <ul>
